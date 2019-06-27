@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+Conversations around technology and media today emphasize the unprecedented growth of it all. It is completely true, the world is more connected than ever before, breaking news stories and viral videos can leave us completely captivated one day and apathetic the next. There is a general feeling of novelty and fear and excitement. While the technology that inspires those feelings is new, the feelings themselves are not.
 
-You can use the [editor on GitHub](https://github.com/vcta99/INFSTD30/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Tuesday’s readings broke down “the cycle” of new technologies. First, they were innovated as a direct result of existing technologies, to challenge existing structures. Wu explains, “that which is centralized becomes a target for assault.” These innovations were designed to be as “open” and accessible as possible. Society conditioned these advancements to be seen as a public good. Although owned by a private entity, the monopolistic market structure would allow for the most effective and efficient distribution of the new service. In centralizing this entity, some users were inevitably marginalized. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The world wide web, with all of its grandiosity and potential is no different. The Master Switch: The Rise and Fall of Information Empires argues that this cycle will repeat itself and that the internet will become centralized. The author uses the AT&T as model for this cycle, paying particular focus on then-owner Theodore Vail, and his great hopes of unity and connectivity. We see this today as well. Today, the role of a tech CEO philanthropist with an eccentric vision of the future is Elon Musk. In framing technology through the lens of a cycle, Wu also insinuates that the centralization of the internet may not result in the end of the world. It is a cycle, it will repeat, and new inventions will come to take the internet’s place.
 
-### Markdown
+This cycle arguable starts with the telegraph. In Technology and Ideology: The Case of the Telegraph, Carey describes how the invention of the telegraph fundamentally changed the way society envisioned communication, transformation, business, time, and space. All technologies created afterwards only intensified these effects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vcta99/INFSTD30/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The field of journalism, for example, was forcibly standardized through the use of the telegraph. Articles were written as succinctly and factually as possible in order to reach a broad audience in order to maximize revenue. Any trace of “local flavor” was lost. This style of journalism remains with us today. The telegraph shaped language in a way very similar to tweets/memes do today, the latter of which relying heavily on visuals with as little words as possible as to be understood as quickly as possible. This helps the post go viral, and gain monetization. 
+github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
