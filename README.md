@@ -1,4 +1,4 @@
-# INFSTD30
+# Week 1 Blog Post
 <article>
   <header>
     <p>Conversations around technology and media today emphasize the unprecedented growth of it all. It is completely true, the world is more connected than ever before, breaking news stories and viral videos can leave us completely captivated one day and apathetic the next. There is a general feeling of novelty and fear and excitement. While the technology that inspires those feelings is new, the feelings themselves are not.
