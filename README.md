@@ -11,6 +11,8 @@ This cycle arguable starts with the telegraph. In Technology and Ideology: The C
 
 The field of journalism, for example, was forcibly standardized through the use of the telegraph. Articles were written as succinctly and factually as possible in order to reach a broad audience in order to maximize revenue. Any trace of “local flavor” was lost. This style of journalism remains with us today. The telegraph shaped language in a way very similar to tweets/memes do today, the latter of which relying heavily on visuals with as little words as possible as to be understood as quickly as possible. This helps the post go viral, and gain monetization. 
 
+Carey, J. (2009). Technology and Ideology: The Case of the Telegraph
+Wu, T. (2010) The Master Switch: The Rise and Fall of Information Empires. Chapters 1 and 15, pages 3 -14, and 196-203
 
 </p>
   </header>
