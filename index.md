@@ -1,3 +1,8 @@
+# It Me
+
+[Self Portrait](Self Portrait.html)
+
+
 # Week 2 Blog Post
 This week’s readings focused on the accessibility of information online. 
 
