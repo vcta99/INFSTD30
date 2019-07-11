@@ -2,6 +2,20 @@
 
 [Self Portrait](Round3.html)
 
+Reflection:
+The html self-portrait forced me to look at computer science through a more creative and artistic lens. As someone who is friends with a lot of cs majors, I rarely get to hear or see this side of CS. I mostly just hear crying. It was difficult to grasp at first(it took me 40 minutes to try to add a button on top of an image before I just gave up), but also rewarding to work around problems with your own solutions.
+
+At first, I wanted to create a slideshow that would be snapshots of parts of my life. I didn’t want it to make sense or be organized, because I felt like that was more true to me as a person. After receiving feedback, I thought it would be better to have a more structured approach. A divided my website into three subsections (family, dance, art), with visuals in each section. I had some trouble including a video in my code (it kept saying that it was not supported by my browser), and instead settled for a link to a youtube video of my team dancing.
+
+In the end, I created something that (in my opinion) still needed a lot of work. I was mildly frustrated and disappointed in myself, but was uplifted after sharing it to one of my CS buddies. They admitted that front end was difficult, even for them, and that as a product of my first attempt at coding, my html was actually really good and something to be proud of.
+
+The project also tied in with our reading assignments, specifically the article about wikipedia and common knowledge. Coding often seems like an intimidating subject (a lot of my CS friends can also vouch for this), yet resources to learn are so abundantly available on the internet. My sister’s boyfriend, who originally majored in Chemistry, is now a data scientist after he completed an online boot camp in coding. There was a fee, but it was far cheaper than attaining a college degree, and even the free resources a can help a person get their foot in the door. Not just with CS, but with all subjects of interest.
+
+It is also the case (in my own experiences), that online instructional resources are superior to traditional ones. Traditional educational resources do have their perks, they can be better customized to the student (ex. One-on-one teaching sessions). What is special about the internet, however, is that it not only provides educational content, but also presents this content in different frameworks. This helps accommodate to a diversity of learning styles. 
+
+
+
+
 
 # Week 2 Blog Post
 This week’s readings focused on the accessibility of information online. 
