@@ -1,3 +1,20 @@
+# Week 4 Reflections
+
+This week’s reading centered around growing privacy concerns in regard to data mining and location tracking. In her keynote speech, Shoshana Zuboff elaborated on the economic and social conditions which allowed for surveillance capitalism. She argues that internet typhoons have created a market good--in this case, behavior--out of nothing. This good is “unnatural”, and exists only in the market between other goliath companies. We are not the producers nor the consumers, as Zuboff compares individuals to elephants hunted for their ivory tusks. She drives the issue home, insinuating that our children are becoming the main targets, and that the behavioral data collected will be used to further mold our behavior, tapping into our deepest insecurities and fears in order to draw a profit. 
+
+Heavy parallels are drawn to Orwell’s 1984, as she names the data mining companies, “The Big Other”. This parallel is further drawn through Greenwald’s article, ““Edward Snowden, The Whistle-blower Behind the NSA Surveillance Revelations.” Edward Snowden can be seen as a modern day Wintston Smith, the only “morally aware” man in his party. His testimony shows that, even in time periods when the administration is considered to be “liberal”, warrantless mass surveillance of citizens can, and still does, ensue. Yet, Snowden is only one man, and the incident itself occurred over 6 years ago. Imagine what has happened within those six years, and what other acts of invasion have occured.
+
+The article by the New York Times took this topic to a personal level by showcasing specific tracking and data mining of one individual in particular, and the mundane apps she uses. The detailed and accurate access companies have to her, despite the ordinariness of her life and of her situation, is terrifying. She has no protection against these corporations. Many would say that she should simply stop using these apps, or leave her phone behind during the day. Yet, that is not the problem. Even if you stop using your phone, you still have to live in a world where everyone else using their phone. Apps like these have become a necessity. We have, in the words of Shoshana Zuboff, “traded our security and independence for convenience.”
+
+This week’s readings are especially topical due to the recent FaceApp controversy. And yet, while I understand the outrage, I cannot help but feel subdued. I know consciously that this invasion of privacy is morally wrong, but I also feel numb to it. There is no sense of surprise.
+
+Forum Privatheit 2018: Shoshana Zuboff keynote speech on surveillance capitalism https://www.youtube.com/watch?v=DeaSxCN2uw8
+
+Greenwald, G. (June 9, 2013) “Edward Snowden, The Whistle-blower Behind the NSA Surveillance Revelations.” The Guardian.
+
+Jennifer Valentino-Devries, Natasha Singer, Michael h. Keller and Aaron Krolik. 2018. Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret. New York Times.
+
+
 # Hello It's Me
 
 [Self Portrait](Round3.html)
