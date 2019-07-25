@@ -1,3 +1,19 @@
+# Week 5 Reflections
+
+This week’s reading focused on crowdsourcing, using algorithms for social policy, and e-waste in Ghana. The increase of crowdsourcing, especially in countries like India and China, have multiple consequences. The first, taking jobs away from the U.S., and with taking away the concept of full time employment and the benefits and stability that comes with it (health care, retirement funding, etc.) For me, this reading was hard to understand conceptually, as neither of my parents had traditional full time jobs. My mom was an assembly line manufacturing before she got laid off in 2008, and my father has always worked odd jobs in the community. Neither of my parents were ever secure in their professions, and so for me, the concept of not having these full time benefits doesn’t too consequential.
+
+The other two readings, in my opinion are focused on how new systems of technology have intensified already existing inequalities. The first lecture focused on the U.S. welfare system, and how the algorithm that will greater persecute already vulnerable communities of people. This, however, is a result of the structure of the U.S. welfare system, and our ideas that there are people “deserving” of being poor. Especially as those who are in poverty try to “cheat the system” to gain as high of a score as possible. Structural bias is automated.
+
+The readings for Thursday revolve around the growing concern of e-waste in Ghana. Again, the manufacturing of technology has worsened already bad conditions of global warming and the divide between the global north and south. Countries in the global south are forced to live with the byproducts of the global north. Their mere survival--attempts at creating a market, economy, or education--are seen as a positive that makes them in debt to the global north even though these opportunities were created by the local community.
+
+Gray, M. (2016) Your Job is About to Get Taskified Los Angeles Times
+
+Watch video: Virginia Eubanks (2018) Automating Inequality https://datasociety.net/events/databite-no-106-automating-inequality-virginia-eubanks-in-conversation-with-alondra-nelson-and-julia-angwin/
+
+Jackson, S. J. (2014). 11 Rethinking Repair. Media technologies: Essays on communication, materiality, and society, 221-39.
+
+Watch video: SBS Dateline, E-waste https://www.youtube.com/watch?v=dd_ZttK3PuM
+
 # Week 4 Reflections
 
 This week’s reading centered around growing privacy concerns in regard to data mining and location tracking. In her keynote speech, Shoshana Zuboff elaborated on the economic and social conditions which allowed for surveillance capitalism. She argues that internet typhoons have created a market good--in this case, behavior--out of nothing. This good is “unnatural”, and exists only in the market between other goliath companies. We are not the producers nor the consumers, as Zuboff compares individuals to elephants hunted for their ivory tusks. She drives the issue home, insinuating that our children are becoming the main targets, and that the behavioral data collected will be used to further mold our behavior, tapping into our deepest insecurities and fears in order to draw a profit. 
